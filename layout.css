@@ -1,3 +1,7 @@
 img {
   max-width: 20%;
 }
+
+#article_1 {
+  border: solid black 3px;
+}
